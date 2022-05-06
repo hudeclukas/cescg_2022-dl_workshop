@@ -1,0 +1,8 @@
+numpy
+plotly
+pandas
+torch
+matplotlib
+notebook
+imageio
+scikit-image
